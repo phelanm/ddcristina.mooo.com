@@ -5,3 +5,4 @@ run lambda {
     StringIO.new("<html><head><title>ddcristina.mooo.com</title></head><body>hello world, thanks <a href=\"http://freedns.afraid.org\"> afraid.org</a></body></html>")
   ]
 }
+
